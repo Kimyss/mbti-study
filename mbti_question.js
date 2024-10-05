@@ -55,6 +55,6 @@ const handleClickMBTI = () => {
   T < F ? MBTI += "F" : MBTI += "T";
   P < J ? MBTI += "J" : MBTI += "P";
 
-  alert(`🙂 당신의 MBTI는 ${MBTI} 입니다 🙃`);
+  alert(`🙂 당신의 MBTI는 ${MBTI} 입니다! 🙃`);
 
 }
